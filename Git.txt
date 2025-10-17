@@ -3,3 +3,5 @@ Inicio da Aula de Git
 Continuação da Aula de Git
 
 Retornamos do Intervalo 
+
+Estamos trabalhando de casa
